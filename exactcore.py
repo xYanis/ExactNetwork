@@ -237,13 +237,3 @@ while True:
         url = 'https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/167/downloads/paper-1.18.1-167.jar'
         urllib.request.urlretrieve(url, './dist/1.18.1.jar', 
         print('[] Downloaded !'))
-    
-    
-    
-    
-    
-    
-    
-    
-
-
